@@ -1,9 +1,9 @@
 This repository contains the Matlab code necessary to reproduce all data and Visualizations reported in the article:
 
 Biondi, Yuri & Righi, Simone (2018), ‘’Inequality, Mobility and the Financial Accumulation
-Process: A Computational Economic Analysis‘’ Submitted for publication to the Journal of Economic Interactions and Coordination.
+Process: A Computational Economic Analysis‘’, Journal of Economic Interactions and Coordination.
 
-The paper is available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2628536
+The published paper is available at: https://rdcu.be/bhZ8d
 
 IF YOU USE OUR CODE, PLEASE CITE OUR PAPER.
 
