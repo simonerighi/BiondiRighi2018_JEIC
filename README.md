@@ -7,6 +7,9 @@ The published paper is available at: https://rdcu.be/bhZ8d
 
 IF YOU USE OUR CODE, PLEASE CITE OUR PAPER.
 
+CITE AS:
+Biondi, Y. & Righi, S. J Econ Interact Coord (2019). https://doi.org/10.1007/s11403-019-00236-7
+
 ------
 
 
